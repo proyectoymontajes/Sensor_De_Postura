@@ -1,8 +1,8 @@
 #include <WiFi.h>
 const int sensorPin= 35;
 
-const char*ssid     = "Anashe";
-const char*password = "12345678";
+const char*ssid     = "ssid";
+const char*password = "password";
 const int vibra = 33;
 const int sensor= 34;
 
